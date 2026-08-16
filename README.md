@@ -149,8 +149,9 @@ L45, L22, FW, R22, R45
 
 ## ⚠️ Known Issue
 
-* Push feature is not fully implemented
-* Current behavior = **attach instead of push**
+* Distance matrix is not implemented
+* No distinguish between box and wall
+
 
 ---
 
